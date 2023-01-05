@@ -4,7 +4,10 @@ Unlike the previous three editions ([2020](https://boblsturm.github.io/aimusic20
 
 ## What is the challenge?
 
-Use any kind of artificial intelligence (one system or many different systems) in any way to generate an artificial music tradition. This could entail symbolic music, audio recordings, lyrics, dances, imagery, costumes, myths, instruments, ephemra, websites, ethnomusicological or anthropological studies, and so on. 
+Use any kind of artificial intelligence (one system or many different systems) in any way to generate an artificial music tradition. This could entail symbolic music, audio recordings, lyrics, dances, imagery, costumes, myths, instruments, ephemera, websites, ethnomusicological or anthropological studies, and so on. Particular inspirations include:
+- [Aisteach | Preserving the history of Ireland's Avant-Garde](http://www.aisteach.org)
+- [The CFL Sessions](http://www.thecflsessions.ca/biographies.html)
+- [The Last LP: Unique Last Recordings Of The Music Of Ancient Cultures (1987)](https://youtu.be/zKQY7NcdnAM)
 
 ## How?
 1. By JULY 4, register your intent to participate by notifying the [organizer](mailto:bobs@kth.se?subject=Participation-in-the-Ai-Music-Generation-Challenge-2023).
