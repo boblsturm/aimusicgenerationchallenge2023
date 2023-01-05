@@ -1,6 +1,6 @@
 # The Ai Music Generation Challenge 2023
 
-Unlike the previous three editions ([2020](https://boblsturm.github.io/aimusic2020/), [2021](https://github.com/boblsturm/aimusicgenerationchallenge2021), [2022](https://github.com/boblsturm/aimusicgenerationchallenge2022)), this challenge is focused not on generating a particular form of existing traditional music, but instead on generating an /artificial music tradition/.
+Unlike the previous three editions ([2020](https://boblsturm.github.io/aimusic2020/), [2021](https://github.com/boblsturm/aimusicgenerationchallenge2021), [2022](https://github.com/boblsturm/aimusicgenerationchallenge2022)), this challenge is focused not on generating a particular form of existing traditional music, but instead on generating an _artificial music tradition_.
 
 ## What is the challenge?
 
