@@ -9,6 +9,8 @@ Use any kind of artificial intelligence (one system or many different systems) i
 - [The CFL Sessions](http://www.thecflsessions.ca/biographies.html)
 - [The Last LP: Unique Last Recordings Of The Music Of Ancient Cultures (1987)](https://youtu.be/zKQY7NcdnAM)
 
+For an academic look at the invention of tradition, see [The Invention of Tradition, Hobspawn and Ranger (eds), 2012.](https://www.cambridge.org/core/books/invention-of-tradition/B9973971357795DC86BE856F321C34B3)
+
 ## How?
 1. By JULY 4, register your intent to participate by notifying the [organizer](mailto:bobs@kth.se?subject=Participation-in-the-Ai-Music-Generation-Challenge-2023).
 2. Start generating documentary evidence of your artificial music tradition.
