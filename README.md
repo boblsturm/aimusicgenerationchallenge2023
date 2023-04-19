@@ -11,7 +11,7 @@ Use any kind of artificial intelligence (one system or many different systems) i
 - Alien music practices resulting from the discovery and "decoding" of the record on [Voyager 1](https://voyager.jpl.nasa.gov/golden-record)
 
 Particular inspirations for the 2023 challenge include:
-- [Aisteach | Preserving the history of Ireland's Avant-Garde](http://www.aisteach.org)
+- [Aisteach | Preserving the history of Ireland's Avant-Garde](http://aisteach.net)
 - [The CFL Sessions](http://www.thecflsessions.ca/biographies.html)
 - [The Last LP: Unique Last Recordings Of The Music Of Ancient Cultures (1987)](https://youtu.be/zKQY7NcdnAM)
 - [The Invention of Tradition, Hobspawn and Ranger (eds), 2012.](https://www.cambridge.org/core/books/invention-of-tradition/B9973971357795DC86BE856F321C34B3)
