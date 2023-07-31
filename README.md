@@ -15,6 +15,7 @@ Particular inspirations for the 2023 challenge include:
 - [The CFL Sessions](http://www.thecflsessions.ca/biographies.html)
 - [The Last LP: Unique Last Recordings Of The Music Of Ancient Cultures (1987)](https://youtu.be/zKQY7NcdnAM)
 - [The Invention of Tradition, Hobspawn and Ranger (eds), 2012.](https://www.cambridge.org/core/books/invention-of-tradition/B9973971357795DC86BE856F321C34B3)
+- [alien listening: Voyager's Golden Record and Music from Earth, Chua and Rehding, 2021](https://press.princeton.edu/books/hardcover/9781942130536/alien-listening)
 
 ## How?
 1. By SEPTEMBER 4, register your intent to participate by notifying the [organizer](mailto:bobs@kth.se?subject=Participation-in-the-Ai-Music-Generation-Challenge-2023).
