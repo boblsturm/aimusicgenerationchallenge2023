@@ -21,7 +21,7 @@ Particular inspirations for the 2023 challenge include:
 1. By SEPTEMBER 15, register your intent to participate by notifying the [organizer](mailto:bobs@kth.se?subject=Participation-in-the-Ai-Music-Generation-Challenge-2023).
 2. Start generating documentary evidence of your artificial music tradition.
 3. Write a document describing your team and technical process, as well as reflecting on issues surrounding cultural appropriation in the submitted work, and clarity regarding its use of data and its intentions.
-4. By DECEMBER 15, email the [organizer](mailto:bobs@kth.se):
+4. By JANUARY 15, email the [organizer](mailto:bobs@kth.se):
 - a link to download the documentary evidence of your artificial music tradition. 
 - your document (pdf).
 
