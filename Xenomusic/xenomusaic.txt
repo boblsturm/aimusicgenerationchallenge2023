@@ -1,0 +1,36 @@
+Xenomusaic
+
+Nick Collins
+
+
+
+To imagine a more distant alien music worthy of strange new worlds, rather than cliched sci-fi media music overly influenced by Hollywood and TV (Summers 2013), the foundations of music as a time-based art form can be abstracted in a new way. Unfamiliar exoplanets and unknown xenobiology may lead to music transmitted in the vibrations of other elements and materials, intended for different auditory conditions and physiological apparatus, even at different cognitive rates, all impacting on the perceptibility to human ears of xenomusical information. Nonetheless, we proceed pragmatically, dropping certain preconditions of standard human music theory whilst keeping (for the moment) frequencies within human hearing range and at rhythmic rates to some degree perceivable at human perceptual rates favouring a 2-3 second perceptual present. Other worlds can have rather different acoustic situations, for example with higher fluid loading effects and faster speeds of sound in denser atmospheres impacting on formants and vibrational fundamentals (as for example happens on the surface of Venus, where if you could speak without immediate dissolution amidst the sulphuric acid you would have heavier vocal folds for a deeper source tone but higher formants from the higher speed of sound for a child's vocal timbre, see Leighton and Petculescu 2009a, 2009b). We don't diverge acoustic equations too far, not worrying about propagation distances (with a sparse Martian atmosphere sound can disappear within 10 metres), or alien geometries affecting impulse responses leading to radically different reverbs, but utilise potential physical universals, such as the stiff string equation (Fletcher and Rossing 2012). If necessary, we can posit that some translation through sonification techniques (Zanella et al. 2022) has taken place to enable hearing the alien music.
+
+The project here consists of two parts; 1) a music generator founded in a model of time and frequency content based in shorter or longer spans of working memory than a human norm (though its output is certainly interpretable by human ears) 2) a highly abstracted alien language generator used to make 'written' documentation of the musical tradition; the symbols are here translated from alien symbols to ascii to give some chance of human appreciation, but the grammar and vocabulary is highly unusual (again founded in different orders of working memory allowing for smaller or larger numbers of units and grammatical constructs). We provide a few more details of each of these:
+
+
+1. The xenophone music generator
+
+Choose a memory size M from 2 to 30 items (humans would be 7+-2).
+Choose a set of M differently perceptible durations
+Make a metrical cycle, using selection from the basic durations
+Set up an importance grid over the cycle with both positive (favour) and negative (avoid) ratings at each non-isochronous timestep
+Choose a number of voices from 2 to 11 (level of polyphony)
+Generate rhythms for different voices (with the possibility to invert the importance grid; importance gets downweighted for grid positions the more voices choose that position already, to promote counterpoint). Each run through the cycle, subtle variations are possible
+Choose a number of discernible frequencies (based on memory size M)
+Choose some frequency subsets for different sections of the piece
+Choose pitch selection principles, including options for serialism and random selection
+Generate music per cycle, utilising the rhythms and pitch selection criteria for each voice
+
+Synthesis is via a set of resonant filterbanks (with modes randomly picked) for more percussive sounds, and stretched string (stiff string equation) modes for pitched voices. Voices can be percussive or tonal.
+
+2. The xenotext language generator creating accompanying documentation of the xenomusical tradition
+
+Make a set of letters (4 to 50 different symbols)
+Make a set of words
+Choose a number of 'types' of word (with weightings for usage)
+Create a grammar setting out permissible sentence constructions (not currently a recursive grammar)
+Choose a number of 'tenses', giving modifiers to words
+Generate sentences according to a selected grammar and tense, words from the appropriate type at each stage, modified by the current tense
+
+This work is an initial step into generative xenomusicology (alien analysis by synthesis), but many future developments can be envisaged. The current project is a human imagining possible abstractions of music that are sufficiently mathematical to also be imagined on other worlds as musical constructive starting points. We can imagine an alien musicologist trying to imagine human music, or an alien imagining a human trying to make alien music, and deeper levels yet. We might proceed from the physics of an exoplanet (informed by the catalogue of exoplanets) to its geography and acoustics, then to its xenobiology, musical species, and xenoculture; and the modelled culture may be a far richer hubbub of ideas, akin to the mass production of music on Earth, just within as yet unknown music theories.
