@@ -49,7 +49,7 @@ This challenge has three aims:
 
 ## Submissions
 The challenge received six submissions:
-- [Whale Karaoke](https://github.com/boblsturm/aimusicgenerationchallenge2023/WhaleKaraoke.md) by Jesse Allison, Carlos G. Román,Treya Nash, Andrew Farrar, Morgan Weeks, Ka Hei Cheng 
+- [Whale Karaoke](WhaleKaraoke.md) by Jesse Allison, Carlos G. Román,Treya Nash, Andrew Farrar, Morgan Weeks, Ka Hei Cheng 
 - [Xenomusaic]() by Nick Collins
 - [Sky Shanties]() by Laura Cros Villa
 - [Scrap Metal: The lost sound of the 90s]() by Ken Déguernel
