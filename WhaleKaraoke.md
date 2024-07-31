@@ -6,3 +6,6 @@ the School of Music & Center for Computation & Technology.
 Team members: Jesse Allison, Carlos G. Román, Treya Nash, Andrew Farrar, Morgan Weeks, Ka Hei Cheng 
 
 > Imagine a scenario where a group of humans sets up an underwater karaoke stage in a location frequented by whales. Participants, equipped with underwater headsets and communication devices, take turns singing alongside the mesmerizing whale songs. Whales respond with their own variations and embellishments, creating a unique and unforgettable musical experience.
+
+![Alt text](WhaleKaraoke/WhaleKaroke01.png "underwater karaoke set up")
+![Alt text](WhaleKaraoke/WhaleKaroke02.png "underwater karaoke set up")
