@@ -6,4 +6,4 @@ Laura Cros Vila, KTH, Stockholm Sweden
 
 [Sky Shanties Website](https://lcrosvila.github.io/shanties.html)
 
-[Clear skies ahead](SkyShanties/Clear skies ahead)
+[Clear skies ahead]("SkyShanties/Clear skies ahead")
