@@ -2,6 +2,8 @@
 
 Unlike the previous three editions ([2020](https://boblsturm.github.io/aimusic2020/), [2021](https://github.com/boblsturm/aimusicgenerationchallenge2021), [2022](https://github.com/boblsturm/aimusicgenerationchallenge2022)), the 2023 challenge is focused on generating an _artificial music tradition_ rather than generating a particular form of existing traditional music.
 
+[Submissions are below.](#submissions)
+
 ## What is the challenge?
 
 Use any kind of artificial intelligence (one system or many different systems) in any way to generate an artificial music tradition. This could entail symbolic music, audio recordings, lyrics, dances, imagery, costumes, myths, instruments, ephemera, websites, ethnomusicological or anthropological studies, and so on. To make this more concrete some possibilities could be:
@@ -45,3 +47,11 @@ This challenge has three aims:
 4. "What happened with the 2021 challenge?" Awards are mentioned [here](https://github.com/boblsturm/aimusicgenerationchallenge2021) Read more about the challenge in [Sturm (2022) "The Ai Music Generation Challenge 2021: Summary and Results", Proc. AI Music Creativity conference](https://zenodo.org/record/7088406)
 5. "What happened with the 2022 challenge?" Awards are mentioned [here](https://github.com/boblsturm/aimusicgenerationchallenge2022)
 
+## Submissions
+The challenge received six submissions:
+- [Whale Karaoke]() by Jesse Allison, Carlos G. Román,Treya Nash, Andrew Farrar, Morgan Weeks, Ka Hei Cheng 
+- [Xenomusaic]() by Nick Collins
+- [Sky Shanties]() by Laura Cros Villa
+- [Scrap Metal: The lost sound of the 90s]() by Ken Déguernel
+- [Varexian Music]() by Matthew Campbell, Joseph Virskus, Will Connor, Jeffrey M. Morris
+- [Music of the Crowdworkers]() by Bob L. T. Sturm
