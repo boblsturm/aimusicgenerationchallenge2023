@@ -1,6 +1,6 @@
 # The Ai Music Generation Challenge 2023 Submission: Scrap Metal (The lost sound of the 90s)
  
-Ken Déguernel, University of Lille
+Ken Déguernel, CNRS researcher, University of Lille France
 
 > Scrap Metal is described as a 90s musical style inspired by plunderphonics and metal, and observed through the compensatory memory lens of internet dwellers of the last decade. According to the fragments we've uncovered, Scrap Metal was created in the early 90s by the drummer Chester Navidson reacting against the increasing technicality and abstraction of heavy metal at the time.
 
