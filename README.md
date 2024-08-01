@@ -53,5 +53,5 @@ The challenge received six submissions:
 - [Xenomusic](Xenomusic.md) by Nick Collins
 - [Sky Shanties](SkyShanties.md) by Laura Cros Villa
 - [Scrap Metal: The lost sound of the 90s](ScrapMetal.md) by Ken Déguernel
-- [Varexian Music]() by Matthew Campbell, Joseph Virskus, Will Connor, Jeffrey M. Morris
-- [Music of the Crowdworkers]() by Bob L. T. Sturm
+- [Varexian Music](VarexianMusic.md) by Matthew Campbell, Joseph Virskus, Will Connor, Jeffrey M. Morris
+- [Music of the Crowdworkers](MusicOfTheCrowdworkers.md) by Bob L. T. Sturm
