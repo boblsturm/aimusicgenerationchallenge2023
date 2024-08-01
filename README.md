@@ -52,6 +52,6 @@ The challenge received six submissions:
 - [Whale Karaoke](WhaleKaraoke.md) by Jesse Allison, Carlos G. Román,Treya Nash, Andrew Farrar, Morgan Weeks, Ka Hei Cheng 
 - [Xenomusic](Xenomusic.md) by Nick Collins
 - [Sky Shanties](SkyShanties.md) by Laura Cros Villa
-- [Scrap Metal: The lost sound of the 90s]() by Ken Déguernel
+- [Scrap Metal: The lost sound of the 90s](ScrapMetal.md) by Ken Déguernel
 - [Varexian Music]() by Matthew Campbell, Joseph Virskus, Will Connor, Jeffrey M. Morris
 - [Music of the Crowdworkers]() by Bob L. T. Sturm
