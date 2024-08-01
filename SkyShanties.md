@@ -6,4 +6,4 @@ Laura Cros Vila, KTH, Stockholm Sweden
 
 [Sky Shanties Website](https://lcrosvila.github.io/shanties.html)
 
-[SkyShanties Directory](SkyShanties)
+[Sky Shanties Directory](SkyShanties)
