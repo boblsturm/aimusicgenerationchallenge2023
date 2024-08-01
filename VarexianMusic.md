@@ -10,4 +10,6 @@ Team members: Matthew Campbell, Joseph Virskus, Will Connor, Jeffrey M. Morris
 
 ![Elyra Vunaris, Varexian Musicologist](VarexianMusic/ElyraVunaris.png "ElyraVunaris.png")
 
+[An interview with Varexian ethnomusicologist Elyra Vunaris](https://www.youtube.com/watch?app=desktop&v=oGBibwsLQTo)
+
 [Varexian Music Directory](VarexianMusic)
