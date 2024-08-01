@@ -1,0 +1,1 @@
+Anti-copyright. All rights dispersed. 2024.
